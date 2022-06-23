@@ -1,0 +1,40 @@
+﻿  ConsoleApplication1.cpp
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(93,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(100,15): error C2660: dop2: функция не принимает 0 аргументов
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(5,6): message : см. объявление "dop2"
+  Source.cpp
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(32,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(63): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "heap<T>"
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(32,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(32,1): error C2238: непредвиденные лексемы перед ";"
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(8,10): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(14,3): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(20,8): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(20,14): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(21,3): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(25,3): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(29,10): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(37,8): error C2065: h: необъявленный идентификатор
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(37,8): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(37,15): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(37,26): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(37,32): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(46,9): error C2065: h: необъявленный идентификатор
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(46,9): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(46,16): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(46,27): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(46,33): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(49,13): error C2065: h: необъявленный идентификатор
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(49,13): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(49,21): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(50,9): error C2065: h: необъявленный идентификатор
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(50,9): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(50,16): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(51,11): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(51,17): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(56,13): error C2065: h: необъявленный идентификатор
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(56,13): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(56,20): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(57,10): error C3861: h: идентификатор не найден
+C:\Учёба\Белодед\Основы проги и алгоритмизации(Белоед)\Лабы\2сем\15лаба\ConsoleApplication1\ConsoleApplication1\Source.cpp(57,16): error C3861: h: идентификатор не найден
+  Создание кода...
